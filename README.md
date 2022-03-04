@@ -14,3 +14,4 @@ trojan://HnBZtwArUHRwRyjC@usa8.wujie8.xyz:443#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%
 trojan://HnBZtwArUHRwRyjC@usa9.wujie8.xyz:443#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD9%E5%8F%B7
 trojan://HnBZtwArUHRwRyjC@usa10.wujie8.xyz:443#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD10%E5%8F%B7
 trojan://HnBZtwArUHRwRyjC@usa11.wujie8.xyz:4431#%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD11%E5%8F%B7
+
